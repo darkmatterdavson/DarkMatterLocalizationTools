@@ -1,6 +1,6 @@
-### DarkMatter Localization Tools List
+## DarkMatter Localization Tools List
 
-## Tiny Glade (2024)
+# Tiny Glade (2024)
 GameURL: [url]https://store.steampowered.com/app/2198150/Tiny_Glade/[/url]
 
 App preview:
